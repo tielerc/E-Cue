@@ -1,2 +1,2 @@
 # E-Cue
-Development for E-Cue prototype.
+Development for E-Cue prototype for ME310.

@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Tie's Demo Scripts/Classroom, Playable Controller.unity
+    guid: b29c14b3d85f1464dbfb0f062854bb31
+  - enabled: 1
+    path: Assets/Scenes/Tie's Demo Scripts/SceneTest_N.unity
+    guid: 7f84957a09f12450c938ae1d17d397e7
+  - enabled: 1
+    path: Assets/Scenes/Tie's Demo Scripts/SceneTest_Y.unity
+    guid: 1a950b22fce84495a88c9ae7033165b3
   m_configObjects: {}

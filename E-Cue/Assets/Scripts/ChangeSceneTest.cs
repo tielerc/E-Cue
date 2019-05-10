@@ -7,15 +7,7 @@ public class ChangeSceneTest : MonoBehaviour
 {
     // void OnEnable()
     // {
-    //     // if(Input.GetKeyDown("y"))
-    //     // {
-    //     //     SceneManager.LoadScene("SceneTest_Y", LoadSceneMode.Single);
-    //     //     print("y key was pressed");
-    //     // } else if(Input.GetKeyDown("y"))
-    //     // {
-    //     //     SceneManager.LoadScene("SceneTest_N", LoadSceneMode.Single);
-    //     //     print("N key was pressed");
-    //     // }
+    //     SceneManager.LoadScene("SCENE_NAME", LoadSceneMode.Single);
     // }
 
     void Update()

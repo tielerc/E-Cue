@@ -2449,7 +2449,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
+  m_TargetDisplay: 1
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
@@ -4915,11 +4915,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4025620396599536, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.5527137e-15
+      value: 2.9605944e-15
       objectReference: {fileID: 0}
     - target: {fileID: 4025620396599536, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.000000029802326
+      value: 0.00000002483527
       objectReference: {fileID: 0}
     - target: {fileID: 4025620396599536, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalRotation.z
@@ -4935,7 +4935,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4973588897543658, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.5527137e-15
+      value: -2.9605944e-15
       objectReference: {fileID: 0}
     - target: {fileID: 4973588897543658, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4943,7 +4943,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4973588897543658, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.000000020158382
+      value: -0.00000001679865
       objectReference: {fileID: 0}
     - target: {fileID: 4973588897543658, guid: b7d5cec84b2b11f4998270271ce20139, type: 3}
       propertyPath: m_LocalRotation.x
